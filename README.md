@@ -1,1 +1,1 @@
-# Ripan-Kumar-Kundu
+# Specialization module for the Master projects
